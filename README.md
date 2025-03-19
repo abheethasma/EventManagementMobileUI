@@ -1,4 +1,4 @@
 # EventManagementMobileUI
-In this figma design, I already created the Event management system UI design for mobile app and how their interactions as well. Like when button or image clicks you can see the interactions as well. There are several interfaces in this mobile apps like event Start Up Page, Home page, User profile page, Event detail page, Ticket page, Filter page, Create event page like wise.
+I have designed a comprehensive UI for the EventEase mobile app in Figma, incorporating interactive elements for a seamless user experience. My design includes key interfaces such as the Event Start-Up Page, Home Page, User Profile Page, Event Detail Page, Ticket Page, Filter Page, and Create Event Page, ensuring a well-structured and intuitive flow for event management. This professional approach enhances user engagement and simplifies event planning within the app. 
 
 Figma Link:- https://www.figma.com/design/q0e2KvFzjP6TbyefqdNnjA/Abheetha?t=Vv1UJxcXGV62owYB-1
